@@ -1,0 +1,13 @@
+.PostBlock {
+    background: linear-gradient(to bottom,rgb(166, 255, 0), rgb(78, 7, 116));
+    width: 1000px;
+    border-radius: 2px;
+    color: #dbdbdb;
+    font-family: fantasy;
+    padding: 8px;
+    margin-bottom: 12px;
+    text-shadow: 2px 2px 4px #000;
+}
+h1 {
+    text-shadow: 2px 2px 4px #000;
+}

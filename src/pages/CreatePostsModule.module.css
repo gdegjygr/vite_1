@@ -1,0 +1,35 @@
+.AddpostBlock {
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.553), rgba(255, 255, 255, 0));
+    width: 500px;
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-shadow: 2px 2px 4px #000;
+}
+.Label {
+    display: flex;
+    margin: 0 auto;
+}
+.Input {
+    display: flex;
+    margin: 0 auto;
+    background-color: #000000af;
+}
+.Button {
+    display: flex;
+    background-color: #212121;
+    margin: 0 auto;
+    font-weight: lighter;
+    border-radius: 2px;
+    transition: 0.5s;
+    border: 2px solid #212121;
+}
+.Button:hover {
+    border: 2px solid rgb(70, 70, 224);
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+}

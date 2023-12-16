@@ -1,0 +1,18 @@
+.red {
+    color: #000;
+    background-color: red;
+    border-radius: 2px;
+    padding: 4px 8px;
+    text-shadow: none;
+    box-shadow: 2px 2px 4px rgb(141, 0, 0);
+}
+.Footer {
+    background-color: #00000064;
+    padding: 6px 10px;
+    width: 480px;
+    text-align: center;
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-top: 40px;
+    text-shadow: 2px 2px 4px #000;
+}

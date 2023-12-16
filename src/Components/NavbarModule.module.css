@@ -1,0 +1,13 @@
+nav {
+    background-color: #000000a3;
+    border-left: 3px solid #356cb3;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 4px #000;
+}
+li {
+    list-style-type: none;
+    margin-left: -34px;
+}
+li:hover {
+    cursor: pointer;
+}
